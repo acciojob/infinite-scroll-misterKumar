@@ -1,6 +1,6 @@
 //your code here!
 const list = document.getElementById("list");
-const listContainer = document.querySelector(".infi-list");
+const listContainer = document.querySelector("#infi-list");
 
 const loadMore = () => {
   // Add 2 more list items to the list
